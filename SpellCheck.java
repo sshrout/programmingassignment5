@@ -116,6 +116,8 @@ public class SpellCheck {
           System.out.println("The dictionary file could not be found.");  
             
         }
+        
+          
          
     }
     
